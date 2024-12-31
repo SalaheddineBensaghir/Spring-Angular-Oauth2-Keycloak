@@ -25,7 +25,7 @@
 <img src="/images/keycklok 21.png">
 <img src="/images/keycklok 22.png">
 <img src="/images/keycklok 23.png">
-<img src="/images/keycklok 27.png">
+<img src="/images/keycklok 23.png">
 <img src="/images/keycklok 28.png">
 <img src="/images/keycklok 29.png">
 <img src="/images/keycklok 30.png">
